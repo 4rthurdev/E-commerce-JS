@@ -80,7 +80,7 @@ const products = [
 
 ---
 
-## 🌟 Melhorias Futuras
+## 🌟 Melhorias Futuras Propostas
 
 - Adicionar funcionalidade de remoção de itens específicos do carrinho.
 - Salvar o estado do carrinho no localStorage.
@@ -90,7 +90,5 @@ const products = [
 
 ## 📜 Licença
 
-Este projeto é de uso livre e foi desenvolvido como um exercício de aprendizado. Sinta-se à vontade para contribuir e sugerir melhorias!
+Este projeto é de uso livre e foi desenvolvido como atividade. Sinta-se à vontade para contribuir e sugerir melhorias!
 ``` 
-
-Se precisar de ajustes ou mais informações, é só avisar! 😊
