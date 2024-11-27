@@ -1,7 +1,7 @@
 ```markdown
 # Lojinha - E-commerce Simples
 
-Este é um projeto simples de e-commerce desenvolvido em **HTML**, **CSS** e **React**. 
+Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React. 
 
 ## 🛠️ Funcionalidades
 
