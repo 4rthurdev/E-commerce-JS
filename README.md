@@ -1,11 +1,7 @@
-### README.md
-
 ```markdown
 # Lojinha - E-commerce Simples
 
-Este é um projeto simples de e-commerce desenvolvido em **HTML**, **CSS** e **React**. O objetivo é demonstrar funcionalidades básicas de um sistema de loja online, incluindo um catálogo de produtos, carrinho de compras, finalização de compra e a opção de limpar o carrinho.
-
----
+Este é um projeto simples de e-commerce desenvolvido em **HTML**, **CSS** e **React**. 
 
 ## 🛠️ Funcionalidades
 
