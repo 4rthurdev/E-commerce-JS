@@ -60,7 +60,7 @@ const App = () => {
                         {/* Botão para finalizar a compra */}
                         <button onClick={finalizePurchase}>Finalizar Compra</button>
                         {/* Botão para limpar carrinho */}
-                        <button onClick={clearCart}>Limpar Carrinho</button>
+                        <button className="clearCart" onClick={clearCart}>Limpar Carrinho</button>
                     </>
                 )}
             </div>
