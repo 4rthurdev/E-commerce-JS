@@ -29,8 +29,6 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 
 3. **Abra o arquivo `index.html` no navegador.**
 
-   > Não é necessário nenhum servidor adicional, pois o projeto utiliza apenas tecnologias frontend.
-
 ---
 
 ## 📂 Estrutura do Projeto
