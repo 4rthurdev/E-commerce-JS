@@ -5,6 +5,7 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 
 ## 🛠️ Funcionalidades
 
+- **Login de Usuário**: Login antes de entrar no sistema para visualizar a loja.
 - **Catálogo de Produtos**: Lista de itens disponíveis para compra.
 - **Carrinho de Compras**: Adicione e visualize os produtos selecionados.
 - **Totalizador**: Calcula o valor total dos itens no carrinho.
@@ -23,11 +24,14 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
    ```
 
 2. **Estrutura de Arquivos:**
-   - `index.html`: Arquivo principal que carrega a estrutura HTML.
+   - `main.html`: Arquivo principal que carrega a estrutura HTML.
    - `style.css`: Estilos utilizados no projeto.
    - `script.js`: Lógica do e-commerce utilizando React.
+   - `login.js`: Login do usuário.
+   - `login.html`: Lógica do login.
+   - `login.css`: Estilos do Login.
 
-3. **Abra o arquivo `index.html` no navegador.**
+3. **Abra o arquivo `login.html` no navegador.**
 
 ---
 
@@ -35,9 +39,12 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 
 ```
 lojinha/
-├── index.html       # Estrutura HTML principal
+├── main.html       # Estrutura HTML principal
 ├── style.css        # Estilos do projeto
 ├── script.js        # Lógica React
+├── login.html        # Tela de login
+├── login.js        # Lógica JS login
+├── login.css        # Estilos do login
 └── README.md        # Documentação
 ```
 
@@ -75,6 +82,7 @@ const products = [
 ### Tecnologias Utilizadas:
 - HTML
 - CSS
+- JS
 - React (via CDN)
 - Babel (via CDN)
 
