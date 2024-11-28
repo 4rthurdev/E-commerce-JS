@@ -33,6 +33,7 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 
 3. **Abra o arquivo `login.html` no navegador.**
 
+4. **No arquivo `login.js` ao final do código constará o comando que deve ser colado no console, clicando F12, assim terá uma credencial cadastrada.**
 ---
 
 ## 📂 Estrutura do Projeto
@@ -40,12 +41,12 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 ```
 lojinha/
 ├── main.html       # Estrutura HTML principal
-├── style.css        # Estilos do projeto
-├── script.js        # Lógica React
-├── login.html        # Tela de login
+├── style.css       # Estilos do projeto
+├── script.js       # Lógica React
+├── login.html      # Tela de login
 ├── login.js        # Lógica JS login
-├── login.css        # Estilos do login
-└── README.md        # Documentação
+├── login.css       # Estilos do login
+└── README.md       # Documentação
 ```
 
 ---
