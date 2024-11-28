@@ -92,8 +92,7 @@ const products = [
 ## 🌟 Melhorias Futuras Propostas
 
 - Adicionar funcionalidade de remoção de itens específicos do carrinho.
-- Salvar o estado do carrinho no localStorage.
-- Criar um backend simples para persistência de dados.
+- Adicionar contador ao lado dos itens, ao invés de adicionar vários itens um abaixo do outro.
 
 ---
 
