@@ -18,8 +18,8 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/lojinha.git
-   cd lojinha
+   git clone https://github.com/4rthurdev/E-commerce-JS
+   cd E-commerce-JS
    ```
 
 2. **Estrutura de Arquivos:**
