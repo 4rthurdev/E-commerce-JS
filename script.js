@@ -1,4 +1,4 @@
-// Função Principal
+// Função Principal do Site
 // Cart= carrinho, setCart= função para atualizar o carrinho, products= produtos disponíveis, addToCart= função para adicionar ao carrinho, getTotal= função para calcular o total, finalizePurchase= função para finalizar a compra, clearCart= função para limpar o carrinho
 const App = () => {
     const [cart, setCart] = React.useState([]); // Estado para o carrinho, iniciar vazio
