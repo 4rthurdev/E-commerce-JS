@@ -13,7 +13,7 @@ const app = () => {
 
     if (user) {
         alert("Login bem-sucedido!");
-        window.location.href = "index.html"; // Redireciona para a página principal
+        window.location.href = "main.html"; // Redireciona para a página principal
     } else {
         alert("Usuário ou senha incorretos!");
     }
