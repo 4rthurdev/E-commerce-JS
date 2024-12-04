@@ -34,6 +34,14 @@ Este é um projeto simples focado na criação de um e-commerce simples desenvol
 3. **Abra o arquivo `login.html` no navegador.**
 
 4. **No arquivo `login.js` ao final do código constará o comando que deve ser colado no console, clicando F12, assim terá uma credencial cadastrada.**
+
+5. **Se não permitir a colagem no chrome, digite allow pasting no console, e cole novamente, os comentários devem ser removidos código.
+
+localStorage.clear();
+const users = JSON.parse(localStorage.getItem("users")) || [];
+users.push({ username: "Arthur", password: "12345" });
+localStorage.setItem("users", JSON.stringify(users));
+
 ---
 
 ## 📂 Estrutura do Projeto
