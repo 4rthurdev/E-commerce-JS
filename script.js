@@ -3,9 +3,9 @@
 const App = () => {
     const [cart, setCart] = React.useState([]); // Estado para o carrinho, iniciar vazio
     const products = [
-        { id: 1, name: "Carroça", price: 55.90 },
-        { id: 2, name: "Pallet", price: 80.90 },
-        { id: 3, name: "Jegue", price: 110.90 },
+        { id: 1, name: "Nike", price: 55.90 },
+        { id: 2, name: "Jordan", price: 80.90 },
+        { id: 3, name: "New Balance", price: 110.90 },
     ]; // Produtos disponíveis
 
     const addToCart = (product) => {
@@ -22,6 +22,7 @@ const App = () => {
             alert("O carrinho está vazio. Adicione algum item para finalizar a compra.");
         } else {
             alert(`Compra finalizada! O total é R$ ${total}. Volte sempre!`);
+            clearCart();
         }
     }; // Função ao apertar em "Finalizar Compra"
 
@@ -69,4 +70,6 @@ const App = () => {
     );
 };
 
-ReactDOM.render(<App />, document.getElementById("app"));
+ReactDOM.render(
+    <App />, document.getElementById("app") // Renderiza o site no elemento com id "app"
+);
