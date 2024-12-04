@@ -55,10 +55,10 @@ lojinha/
 
 Este projeto foi desenvolvido em grupo pelos seguintes integrantes:
 
-- **Arthur Vasconcelos**
-- **Adriel Ryan**
-- **Dhonnatam Nascimento**
-- **José Neto**
+- **Arthur Vasconcelos, responsável pelo login.**
+- **Adriel Ryan, estilização do site e validações.**
+- **Dhonnatam Nascimento, responsável pela lógica do site.**
+- **José Neto, realização do catálogo.**
 
 ---
 
