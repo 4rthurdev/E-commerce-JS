@@ -1,7 +1,7 @@
 ```markdown
 # Lojinha - E-commerce Simples
 
-Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React. 
+Este é um projeto simples focado na criação de um e-commerce simples desenvolvido em HTML, CSS e React CDN. 
 
 ## 🛠️ Funcionalidades
 
@@ -28,8 +28,8 @@ Este é um projeto simples de e-commerce desenvolvido em HTML, CSS e React.
    - `style.css`: Estilos utilizados no projeto.
    - `script.js`: Lógica do e-commerce utilizando React.
    - `login.js`: Login do usuário.
-   - `login.html`: Lógica do login.
-   - `login.css`: Estilos do Login.
+   - `login.html`: Lógica do login do usuário.
+   - `login.css`: Estilos do Login do usuário.
 
 3. **Abra o arquivo `login.html` no navegador.**
 
@@ -74,9 +74,9 @@ O projeto utiliza **React** para renderizar os componentes dinâmicos. As princi
 ### Exemplo de Catálogo:
 ```javascript
 const products = [
-    { id: 1, name: "Carroça", price: 55.90 },
-    { id: 2, name: "Pallet", price: 80.90 },
-    { id: 3, name: "Jegue", price: 110.90 },
+    { id: 1, name: "Nike", price: 55.90 },
+    { id: 2, name: "Jordan", price: 80.90 },
+    { id: 3, name: "New Balance", price: 110.90 },
 ];
 ```
 
